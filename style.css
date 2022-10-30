@@ -19,12 +19,15 @@
         font-family:Montserrat, sans-serif;
         background-size: cover;
         overflow: hidden;
+
     }
 
     .heading {
         text-transform:uppercase;
         letter-spacing: 5px;
         color: white;
+        /* color: white;
+        color: white; */
     }
 
     .clock {
